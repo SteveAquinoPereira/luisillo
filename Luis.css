@@ -1,0 +1,19 @@
+.tabla{
+    align-content: center
+}
+
+.tabla {
+    width: 550px;
+    max-width: 100%;
+    margin: auto;
+    margin-top: 30px;
+    padding: 20px;
+    box-shadow: 0 0 20px 1px rgba(6, 41, 155, 0.9);
+    position: relative;
+}
+aside {
+    margin-top: 20px
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
